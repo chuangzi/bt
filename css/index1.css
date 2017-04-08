@@ -1,0 +1,11 @@
+.container .category-nav li{
+    margin-top: 20px;
+    margin-right: 51px;
+}
+.container .sort-nav .nav a{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.caption .star{
+    color: #f00;
+}
